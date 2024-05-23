@@ -1,0 +1,2 @@
+# sentiment-analysis-with-real-time-chatbot-and-with-tweets
+Sentiment analysis using social media data, particularly tweets, has gained significant attention due to the prevalence of user-generated content. This research paper delves into the application of sentiment analysis on Twitter data employing two widely used machine learning algorithms: Logistic Regression and Support Vector Machine (SVM).
